@@ -13,7 +13,7 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: <sjjboy@foxmail.com>
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Set a small goal first, that is to make 100 million.
+- ⚡ Fun fact: Set a small goal first, that is to make 100 million
 
 - 🌐 Web site: <https://ityim.cn>
 	
