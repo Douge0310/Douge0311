@@ -1,6 +1,7 @@
-### <center> Hi 👋，I'm 豆哥 </center>  
+### <p align="center"> Hi 👋，I'm 豆哥 </p> 
 ---
-#### <center> I am a Front-End Developer. </center>   
+#### <p align="center"> I am a Front-End Developer. </p>  
+<br>
 
 
 - 🔭 I’m currently working on D1M
