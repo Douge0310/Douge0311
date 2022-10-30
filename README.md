@@ -1,7 +1,7 @@
-### <center>Hi 👋，I'm 豆哥
+### <center> Hi 👋，I'm 豆哥 </center>  
 ---
-#### <center>I am a Front-End Developer.
-<br>
+#### <center> I am a Front-End Developer. </center>   
+
 
 - 🔭 I’m currently working on D1M
 
@@ -14,4 +14,11 @@
 - ⚡ Fun fact: Set a small goal first, that is to make 100 million.
 
 - 🌐 Web site: <https://ityim.cn>
-	
+
+<!-- - 🐻 code:
+```
+print("Hello World！");
+printf("Hello World！");
+println("Hello World！");
+echo "Hello World！";
+``` -->
