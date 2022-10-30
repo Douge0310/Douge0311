@@ -1,9 +1,7 @@
-### <center>Hi 👋，I'm 豆哥</center>
-
+### <center>Hi 👋，I'm 豆哥
 ---
-
-#### <center>I am a Front-End Developer.</center><br>
-
+#### <center>I am a Front-End Developer.
+<br>
 
 - 🔭 I’m currently working on D1M
 
@@ -13,7 +11,7 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: <sjjboy@foxmail.com>
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Set a small goal first, that is to make 100 million
+- ⚡ Fun fact: Set a small goal first, that is to make 100 million.
 
 - 🌐 Web site: <https://ityim.cn>
 	
