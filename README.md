@@ -1,16 +1,19 @@
-### Hi there 👋
+### <center>Hi 👋，I'm 豆哥</center>
 
-<!--
-**SunLives/SunLives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### <center>I am a Front-End Developer.</center><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on D1M
+
+- 🌱 I’m currently learning **html、css、js**
+<!-- - 👯 I’m looking to collaborate on ... -->
+- 🤔 I’m looking for help with **How Learn front-end technology ?** 
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: <sjjboy@foxmail.com>
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: Set a small goal first, that is to make 100 million.
+
+- 🌐 Web site: <https://ityim.cn>
+	
