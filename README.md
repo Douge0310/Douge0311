@@ -10,7 +10,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with **How Learn front-end technology ?** 
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: <sjjboy@foxmail.com>
+- 📫 How to reach me: <ityim.sun@gmail.com>
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Set a small goal first, that is to make 100 million.
 
