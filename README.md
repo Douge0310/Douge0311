@@ -4,13 +4,13 @@
 <br>
 
 
-- 🔭 I’m currently working on D1M
+- 🔭 I’m currently working on ITYIM
 
 - 🌱 I’m currently learning **html、css、js**
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with **How Learn front-end technology ?** 
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: <douge0311@gmail.com>
+- 📫 How to reach me: <douge0310@gmail.com>
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Set a small goal first, that is to make 100 million.
 
